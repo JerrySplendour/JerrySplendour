@@ -7,7 +7,7 @@
 - Ask me about **ReactJS, React Native, NextJS, Firebase, NodeJS/NestJS, or building cross-platform apps**.  
 - How to reach me: **jerrysplendour6204@gmail.com** | **+2347071152555**  
 - Pronouns: **He/Him**  
-- Fun fact: I can switch from **deep coding mode** to **creative storytelling** — currently writing stories like *The Wailing Shadow* and *Shadowfront*.  
+- Fun fact: I can switch from **deep coding mode** to **creative storytelling**
 
 <!--
 **JerrySplendour/JerrySplendour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
